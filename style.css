@@ -1,0 +1,28 @@
+body{
+  background:url("https://miro.medium.com/max/1400/1*L76A5gL6176UbMgn7q4Ybg.jpeg");
+  text-align:center;
+}
+.login_div1,.login_div2{
+  background:white;
+  padding:10px;
+  float:none;
+  border-radius:15px;
+}
+#player1_name,#player2_name{
+  display:inline-block;
+  margin-left:20px;
+}
+#word{
+  width:60%;
+}
+#word_display{
+  letter-spacing:10px;
+}
+#output{
+  background:teal;
+  border-radius:10px;
+  border-top:10px solid red;
+  padding:10px;
+  float:none;
+  text-align:left;
+}
